@@ -9,7 +9,7 @@ sidebar:
     nav: "docs"
 ---
 
-Welcome to the home page of the **10th Asian Workshop on Symmetric Key Cryptography**. This workshop will be held on three days at **Jinan University, Shipai Campus, Guangzhou, China**, starting on **December 1st until December 3rd, 2023**. The workshop will be held just before [ASIACRYPT 2023](https://asiacrypt.iacr.org/2023/).
+Welcome to the home page of the **11th Asian Workshop on Symmetric Key Cryptography**. This workshop will be held on three days in **Kolkata, India**, starting on **December 1st until December 3rd, 2024**. The workshop will be held just before [ASIACRYPT 2024](https://asiacrypt.iacr.org/2024/).
 
 ASK has been held to promote research on symmetric-key cryptography in Asia since 2011. Broadly, the scope of the workshop includes, but is not limited to:
 
@@ -27,31 +27,10 @@ You can find previous ASK workshops [here](https://askworkshop.github.io/ask/).
 
 # Contact information
 
-The general co-chairs can be contacted by email at ask2023(at)googlegroups(dot)com.
+The general co-chairs can be contacted by email at ask2024(at)googlegroups(dot)com.
 
 ## General & Program Chairs
 <ul>
-<li>Yaobin Shen(Xiamen University, Xiamen, China)</li>
-<li>Ling Song(Jinan University, Guangzhou, China)</li>
+<li>Mridul Nandi (Indian Statistical Institute, Kolkata, India)</li>
+<li>Somitra Sanadhya (IIT Jodhpur, India)</li>
 </ul>
-
-## Organizers
-
-
-<div class="imgcot">
-  <a class="imgitm" href="https://www.jnu.edu.cn/main.htm"><img border="0" src="https://askworkshop.github.io/ask2023/assets/images/jnu.png" height="130" width="130" /></a>
-  <a class="imgitm" href="https://www.xmu.edu.cn/"><img border="0" src="https://askworkshop.github.io/ask2023/assets/images/xmu.png" height="130" width="130" /></a>
-</div>
-
-## Co-organizers
-
-<div class="imgcot">
-  <a class="imgitm" href=""><img border="0" src="https://askworkshop.github.io/ask2023/assets/images/sjtu.png" height="130" width="130" /></a>
-  <a class="imgitm" href="https://www.cacrnet.org.cn/"><img border="0" src="https://askworkshop.github.io/ask2023/assets/images/cacr.png" height="130" width="130" /></a>
-</div>
-
-
-
-
-
-<!-- <a class="imgitm" href="https://www.xmu.edu.cn/"><img border="0" src="https://askworkshop.github.io/ask2023/assets/images/xmu.png" height="130" width="130" /></a> -->
