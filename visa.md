@@ -9,6 +9,6 @@ sidebar:
     nav: "docs"
 ---
 
-# VISA for China
+# VISA for INDIA
 
-Please find all the details for getting a VISA at this adresse TODO
+TBA
