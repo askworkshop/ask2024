@@ -33,4 +33,5 @@ The general co-chairs can be contacted by email at ask2024(at)googlegroups(dot)c
 <ul>
 <li>Mridul Nandi (Indian Statistical Institute, Kolkata, India)</li>
 <li>Somitra Sanadhya (IIT Jodhpur, India)</li>
+<li>Nilanjan Datta (IAI TCG CREST, Kolkata, India)</li>
 </ul>
