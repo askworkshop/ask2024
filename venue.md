@@ -11,4 +11,8 @@ sidebar:
 
 # Venue
 
- TBA
+ASK 2024 will be held at TCG CREST, Kolkata, India.
+
+Address: First Floor, Tower 1, Bengal Eco Intelligent Park (Techna), Block EM, Plot No 3, Sector V, Salt lake, Kolkata 700091, West Bengal, INDIA
+
+
