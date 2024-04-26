@@ -35,3 +35,10 @@ The general co-chairs can be contacted by email at ask2024(at)googlegroups(dot)c
 <li>Somitra Sanadhya (IIT Jodhpur, India)</li>
 <li>Nilanjan Datta (IAI TCG CREST, Kolkata, India)</li>
 </ul>
+
+## Organizing Chairs
+<ul>
+<li>Avik Chakraborti (IAI TCG CREST, Kolkata, India)</li>
+<li>Subhabrata Samajder (IAI TCG CREST, Kolkata, India)</li>
+<li>Avijit Dutta (IAI TCG CREST, Kolkata, India)</li>
+</ul>
