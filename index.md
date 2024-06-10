@@ -4,7 +4,7 @@ toc: false
 classes: wide
 sidebar:  
   - title: " "
-    image: /assets/images/logo.png
+    image: /assets/images/ASK_2024.png
     image_alt: "image"
     nav: "docs"
 ---
