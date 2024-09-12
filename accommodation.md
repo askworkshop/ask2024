@@ -11,60 +11,17 @@ sidebar:
 
 # Acccommodation
 
-Nearby Hotel: Monotel Kolkata
-
-Kindly find the best rate mentioned below:
+Monotel Kolkata
 
 
-Room Type: Queen Room
+Room Rent: 
 
-Single Rate: INR 4000
+Queen Room (Single: INR 4000, Double: INR 4500)
+King Room (Single: INR 4500, Double: INR 5000)
+Suite (Single: INR 6500, Double: INR 7000)
 
-Double Rate: INR 4500
-
-Inclusions with Room Rates: Complimentary Buffet Breakfast, Buffet dinner and Wi-Fi
-
-
+Note: Additional 12% GST. Room rates include complimentary buffet breakfast, buffet dinner and Wi-Fi.
 
 
-Room Type: King Room
-
-Single Rate: INR 4500
-
-Double Rate: INR 5000
-
-Inclusions with Room Rates: Complimentary Buffet Breakfast, Buffet dinner and Wi-Fi
-
-
-
-
-Room Type: Suite
-
-Single Rate: INR 6500
-
-Double Rate: INR 7000
-
-Inclusions with Room Rates: Complimentary Buffet Breakfast, Buffet dinner and Wi-Fi
-
-
- 
-
-GST Policy
-
-The above rates have 12% GST applicable as per Government rules and regulations. 
-
-(Please note: The above rates are not applicable on the blackout dates and major city events.)
-
- 
-
-NOTE: Kindly note that the rooms will be blocked till 30th of October 2024. After that providing rooms will be subjected to availability.
-
- 
-
-For any further query please feel free to contact the undersigned.
-
-Shafiur Rahman | Sr. Sales Manager | Monotel, Kolkata 
-DM-2, Salt Lake, Sector-V
-Kolkata 700 091, India
-Mob : 9331134506 | Tel: 033-40302000 | FAX: 033-40302020
+Conatct: Shafiur Rahman, Sr. Sales Manager, Mob : 9331134506 | Tel: 033-40302000 | FAX: 033-40302020
 E-mail: shafiur@monotel.com Website: www.monotel.com
