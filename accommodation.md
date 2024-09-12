@@ -13,7 +13,7 @@ sidebar:
 
 Nearby Hotel: Monotel Kolkata
 
-Kindly find the best rate mention below:
+Kindly find the best rate mentioned below:
 
 
 Room Type: Queen Room
@@ -23,6 +23,7 @@ Single Rate: INR 4000
 Double Rate: INR 4500
 
 Inclusions with Room Rates: Complimentary Buffet Breakfast, Buffet dinner and Wi-Fi
+
 
 
 
