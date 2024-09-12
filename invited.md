@@ -11,4 +11,4 @@ sidebar:
 
 # Invited Speakers
 
-TBA  
+To Be Announced  
