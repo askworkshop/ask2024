@@ -51,23 +51,9 @@ Inclusions with Room Rates: Complimentary Buffet Breakfast, Buffet dinner and Wi
 
 GST Policy
 
-The above rates have 12% GST applicable as per Government rules and regulations in room. 
+The above rates have 12% GST applicable as per Government rules and regulations. 
 
 (Please note: The above rates are not applicable on the blackout dates and major city events.)
-
- 
-
-Other Inclusions with Tariff:
-
-•         Two Bottle of 500 Ml  drinking water bottles day/guest.
-
-•         Free access to GYM, Swimming pool,
-
-•         In-Room Tea / Coffee maker with homemade cookies.
-
-•         Daily English newspaper. 
-
- 
 
  
 
