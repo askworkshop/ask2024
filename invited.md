@@ -11,4 +11,4 @@ sidebar:
 
 # Invited Speakers
 
-TBA
+We will upload the list soon
