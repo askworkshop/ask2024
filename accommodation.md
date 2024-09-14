@@ -11,7 +11,7 @@ sidebar:
 
 # Acccommodation
 
-1. ALTAIR BOUTIQUE HOTEL 
+1. ALTAIR BOUTIQUE HOTEL
 
 Room Rent (Till available): 
 
