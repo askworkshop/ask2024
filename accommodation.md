@@ -18,7 +18,7 @@ Room Rent (Till available):
 Single: INR 5800 + GST
 Double: INR 6300 + GST
 
-Note: An additional 12% GST is required. Room rates include complimentary buffet breakfast, buffet dinner and Wi-Fi.
+Note: An additional 12% GST is required. Room rates include complimentary buffet breakfast, and Wi-Fi.
 
 Conatct: Mr. Pravasish Ghosh, Mob: +919073974586, E-mail: sales1.altair@neotiahospitality.com
 
