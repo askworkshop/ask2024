@@ -11,7 +11,7 @@ sidebar:
 
 # Acccommodation
 
-1. ALTAIR BOUTIQUE HOTEL
+1) ALTAIR BOUTIQUE HOTEL
 
 Room Rent (Till available): 
 
@@ -23,7 +23,7 @@ Note: An additional 12% GST is required. Room rates include complimentary buffet
 Conatct: Mr. Pravasish Ghosh, Mob: +919073974586, E-mail: sales1.altair@neotiahospitality.com
 
 
-2. Monotel Kolkata (Website: www.monotel.com)
+2) Monotel Kolkata (Website: www.monotel.com)
 
 Room Rent (Valid till October 30): 
 
