@@ -13,14 +13,15 @@ Welcome to the home page of the **11th Asian Workshop on Symmetric Key Cryptogra
 
 ASK has been held to promote research on symmetric-key cryptography in Asia since 2011. Broadly, the scope of the workshop includes, but is not limited to:
 
-* Primitive design: block ciphers, stream ciphers, hash functions, (cryptographic) permutations etc.
+* Primitive design: block ciphers, stream ciphers, hash functions, (cryptographic) permutations, etc.
 * Cryptanalysis of cryptographic primitives.
-* Design and analysis of the mode of operation: (authenticated) encryption schemes, message authentication codes etc.
+* Design and analysis of the mode of operation: (authenticated) encryption schemes, message authentication codes, etc.
 * Symmetric crypto with public-key applications (MPC, zero knowledge, FHE, etc.)
 * (Post)-Quantum symmetric-key schemes.
 * Implementation of symmetric-key schemes.
+* Searchable Symmetric Encryption
 
-The program will contain mainly two parts: **invited talks** in the mornings, and **group discussions** in the afternoons. For group discussions, we plan to have several small groups, and for each group, we aim to gather researchers who are all interested in one specific topic. The goal of the group discussion is to advance the collaborations within the research community, and to find new results through discussions.
+The program will contain mainly two parts: **invited talks** in the mornings, and **group discussions** in the afternoons. For group discussions, we plan to have several small groups, and for each group, we aim to gather researchers who are all interested in one specific topic. The goal of the group discussion is to advance the collaborations within the research community and to find new results through discussions.
 
 You can find previous ASK workshops [here](https://askworkshop.github.io/ask/).
 
