@@ -11,7 +11,7 @@ sidebar:
 
 # Invited Speakers
 
-Here is the list of confirmed speakers. We will update the list and add the title and abstracts soon. <br>
+Here is the list of confirmed speakers. We will add more speakers and add the talk title and abstracts soon. <br>
 
 <ul>
 <li>Christina Boura, Institut de Recherche en Informatique Fondamentale (IRIF), France</li>
