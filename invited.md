@@ -21,7 +21,7 @@ Here is the list of confirmed speakers. We will update the list and add the titl
 <li>Eik List, Independent Researcher</li>
 <li>Bart Mennink, Radboud University</li>
 <li>Palash Sarkar, Indian Statistical Institute, Kolkata</li>
-<li>Yu Sasaki, NTT Social Informatics Laboratories, NIST Associate</li>
+<li>Yu Sasaki, NTT Social Informatics Laboratories and NIST Associate</li>
 <li>André Schrottenloher, INRIA, Paris</li>
 <li>Yaobin Shen, Xiamen University</li>
 </ul>
