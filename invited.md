@@ -15,13 +15,13 @@ Here is the list of confirmed speakers. We will update the list and add the titl
 
 <ul>
 <li>Christina Boura, Institut de Recherche en Informatique Fondamentale (IRIF)</li>
-<li>Patrick Derbez, INRIA, Rennes</li>
+<li>Patrick Derbez, INRIA, Rennes, France</li>
 <li>Hossein Hadipour, Graz University of Technology, Austria</li>
-<li>Ashwin Jha, Ruhr University, Bochum</li>
+<li>Ashwin Jha, Ruhr University, Bochum, Germany</li>
 <li>Eik List, Independent Researcher</li>
-<li>Bart Mennink, Radboud University</li>
-<li>Palash Sarkar, Indian Statistical Institute, Kolkata</li>
+<li>Bart Mennink, Radboud University, Netherlands</li>
+<li>Palash Sarkar, Indian Statistical Institute, Kolkata, India</li>
 <li>Yu Sasaki, NTT Social Informatics Laboratories and NIST Associate</li>
-<li>André Schrottenloher, INRIA, Paris</li>
-<li>Yaobin Shen, Xiamen University</li>
+<li>André Schrottenloher, INRIA, Paris, France</li>
+<li>Yaobin Shen, Xiamen University, China</li>
 </ul>
