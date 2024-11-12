@@ -15,10 +15,9 @@ ASK has been held to promote research on symmetric-key cryptography in Asia sinc
 
 * Primitive design: block ciphers, stream ciphers, hash functions, (cryptographic) permutations, etc.
 * Cryptanalysis of cryptographic primitives.
-* Design and analysis of the mode of operation: (authenticated) encryption schemes, message authentication codes, etc.
-* Symmetric crypto with public-key applications (MPC, zero knowledge, FHE, etc.)
-* (Post)-Quantum symmetric-key schemes.
-* Implementation of symmetric-key schemes.
+* Provable Security: Design and analysis of the mode of operations - (authenticated) encryption schemes, message authentication codes, etc.
+* Quantum Symmetric Cryptography.
+* Implementation and Side Channel Analysis.
 * Searchable Symmetric Encryption
 
 The program will contain mainly two parts: **invited talks** in the mornings, and **group discussions** in the afternoons. For group discussions, we plan to have several small groups, and for each group, we aim to gather researchers who are all interested in one specific topic. The goal of the group discussion is to advance the collaborations within the research community and to find new results through discussions.
