@@ -14,7 +14,7 @@ sidebar:
 Here is the list of confirmed speakers. We will update the list and add the title and abstracts soon. <br>
 
 <ul>
-<li>Christina Boura, Institut de Recherche en Informatique Fondamentale (IRIF)</li>
+<li>Christina Boura, Institut de Recherche en Informatique Fondamentale (IRIF), France</li>
 <li>Patrick Derbez, INRIA, Rennes, France</li>
 <li>Hossein Hadipour, Graz University of Technology, Austria</li>
 <li>Ashwin Jha, Ruhr University, Bochum, Germany</li>
