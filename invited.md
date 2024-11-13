@@ -15,6 +15,7 @@ Here is the list of confirmed speakers. We will add more speakers and add the ta
 
 <ul>
 <li>Christina Boura, IRIF, Université Paris Cité, France</li>
+<li>Jean Paul Degabriele, TII, Abu Dhabi</li>
 <li>Patrick Derbez, INRIA, Rennes, France</li>
 <li>Hossein Hadipour, Graz University of Technology, Austria</li>
 <li>Ashwin Jha, Ruhr University, Bochum, Germany</li>
