@@ -11,7 +11,7 @@ sidebar:
 
 # Invited Speakers
 
-Here is the list of confirmed speakers. We will add more speakers and add the talk title and abstracts soon. <br>
+Here is the list of confirmed speakers and their talk title. The abstract of each invited talk can be found <a href="https://www.tcgcrest.org/wp-content/uploads/2024/11/abstract_ASK.pdf">here</a>. We will add more speakers soon. <br>
 
 <ul>
 <li>Christina Boura, IRIF, Université Paris Cité, France <br> Title of the Talk: Transistor: a TFHE-friendly Stream Cipher
@@ -28,5 +28,4 @@ Application to Authenticated Encryption</li>
 <li>André Schrottenloher, INRIA, Paris, France <br> Title of the Talk: Single-query Quantum Hidden Shift Attacks</li>
 <li>Yaobin Shen, Xiamen University, China <br> Title of the Talk: Security Analyses and Enhanced Variants of Standardized MAC
 Algorithms</li>
-</ul><br><br>
-The abstract of each invited talk can be found <a href="https://www.tcgcrest.org/wp-content/uploads/2024/11/abstract_ASK.pdf">here.</a>
+</ul>
