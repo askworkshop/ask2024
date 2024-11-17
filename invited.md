@@ -11,7 +11,7 @@ sidebar:
 
 # Invited Speakers
 
-Here is the list of confirmed speakers and their talk title. The abstract of each invited talk can be found <a style="color: #33ccff;" href="https://www.tcgcrest.org/wp-content/uploads/2024/11/abstract_ASK.pdf">[here]</a>. We will add more speakers soon. <br>
+Here is the list of confirmed speakers and their talk title. The abstract of each invited talk can be found <a style="color: #3ca0cc;" href="https://www.tcgcrest.org/wp-content/uploads/2024/11/abstract_ASK.pdf">[here]</a>. We will add more speakers soon. <br>
 
 <ul>
 <li>Christina Boura, IRIF, Université Paris Cité, France <br> Title of the Talk: Transistor: a TFHE-friendly Stream Cipher
