@@ -29,4 +29,4 @@ Application to Authenticated Encryption</li>
 <li>Yaobin Shen, Xiamen University, China <br> Title of the Talk: Security Analyses and Enhanced Variants of Standardized MAC
 Algorithms</li>
 </ul><br><br>
-
+The abstract of each invited talk can be found <a href="https://www.tcgcrest.org/wp-content/uploads/2024/11/abstract_ASK.pdf">here.</a>
