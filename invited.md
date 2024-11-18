@@ -18,7 +18,7 @@ Here is the list of confirmed speakers and their talk title. The abstract of eac
 </li>
 <li>Jean Paul Degabriele, TII, Abu Dhabi <br> Title of the Talk: TBD</li>
 <li>Patrick Derbez, INRIA, Rennes, France <br> Title of the Talk: Alternative Key Schedules for the AES</li>
-<li>Hossein Hadipour, Graz University of Technology, Austria <br> Title of the Talk: TBD</li>
+<li>Hossein Hadipour, Graz University of Technology, Austria <br> Title of the Talk: Revisiting Differential-Linear Attacks via a Boomerang Perspective</li>
 <li>Ashwin Jha, Ruhr University, Bochum, Germany <br> Title of the Talk: Evasive Properties: A Gap in the Quantum Oracles Zoo</li>
 <li>Eik List, Independent Researcher <br> Title of the Talk: Revisiting Demirci-Selcuk Meet-in-the-Middle Attacks on the AES</li>
 <li>Bart Mennink, Radboud University, Netherlands <br> Title of the Talk: Efficient Instances of Docked Double Decker With AES, and
