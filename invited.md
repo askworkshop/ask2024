@@ -16,7 +16,7 @@ Here is the list of confirmed speakers and their talk title. The abstract of eac
 <ul>
 <li>Christina Boura, IRIF, Université Paris Cité, France <br> Title of the Talk: Transistor: a TFHE-friendly Stream Cipher
 </li>
-<li>Jean Paul Degabriele, TII, Abu Dhabi <br> Title of the Talk: TBD</li>
+<li>Jean Paul Degabriele, TII, Abu Dhabi <br> Title of the Talk: What's wrong with Poly1305? - Improving Poly1305 through a Systematic Exploration of Design Aspects of Polynomial Hash Functions</li>
 <li>Patrick Derbez, INRIA, Rennes, France <br> Title of the Talk: Alternative Key Schedules for the AES</li>
 <li>Hossein Hadipour, Graz University of Technology, Austria <br> Title of the Talk: Revisiting Differential-Linear Attacks</li>
 <li>Ashwin Jha, Ruhr University, Bochum, Germany <br> Title of the Talk: Evasive Properties: A Gap in the Quantum Oracles Zoo</li>
