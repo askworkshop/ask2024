@@ -42,3 +42,14 @@ The general co-chairs can be contacted by email at ask2024(at)googlegroups(dot)c
 <li>Avik Chakraborti (IAI TCG CREST, Kolkata, India)</li>
 <li>Avijit Dutta (IAI TCG CREST, Kolkata, India)</li>
 </ul>
+
+## Sponsors
+https://github.com/askworkshop/ask2024/issues/1#issue-2687682827
+<ul>
+<li>Subhabrata Samajder (IAI TCG CREST, Kolkata, India)</li>
+<li>Avik Chakraborti (IAI TCG CREST, Kolkata, India)</li>
+<li>Avijit Dutta (IAI TCG CREST, Kolkata, India)</li>
+</ul>
+
+
+
