@@ -45,6 +45,7 @@ The general co-chairs can be contacted by email at ask2024(at)googlegroups(dot)c
 
 ## Sponsors
 ![image](LogoPID.png)
+![image](LogoCRSI.png)
 <ul>
 <li>Subhabrata Samajder (IAI TCG CREST, Kolkata, India)</li>
 <li>Avik Chakraborti (IAI TCG CREST, Kolkata, India)</li>
