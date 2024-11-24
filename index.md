@@ -46,7 +46,7 @@ The general co-chairs can be contacted by email at ask2024(at)googlegroups(dot)c
 ## Sponsors
 ![image](LogoPID.png)
 ![image](LogoCRSI.png)
-<img src="LogoPID.png" alt="sponsor" width="50" height="50">
+<img src="LogoPID.png" alt="sponsor" width="800" height="200">
 
 
 
