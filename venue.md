@@ -7,6 +7,7 @@ sidebar:
     image: /assets/images/kol2.jpeg
     image_alt: "image"
     nav: "docs"
+    image: https://github.com/askworkshop/ask2024/issues/1#issue-2687682827
 ---
 
 # Venue
