@@ -23,6 +23,7 @@ Here is the list of confirmed speakers and their talk title. The abstract of eac
 <li>Eik List, Independent Researcher <br> Title of the Talk: Revisiting Demirci-Selcuk Meet-in-the-Middle Attacks on the AES</li>
 <li>Bart Mennink, Radboud University, Netherlands <br> Title of the Talk: Efficient Instances of Docked Double Decker With AES, and
 Application to Authenticated Encryption</li>
+<li>Arnab Roy, University of Innsbruck, Austria <br> Title of the Talk: TBD</li>  
 <li>Palash Sarkar, Indian Statistical Institute, Kolkata, India <br> Title of the Talk: Two Decades of Research on Tweakable Enciphering Schemes</li>
 <li>Yu Sasaki, NTT Social Informatics Laboratories and NIST Associate <br> Title of the Talk: Committing Security of Authenticated Encryption</li>
 <li>André Schrottenloher, INRIA, Paris, France <br> Title of the Talk: Single-query Quantum Hidden Shift Attacks</li>
