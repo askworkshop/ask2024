@@ -14,7 +14,7 @@ sidebar:
 Here is the list of confirmed speakers and their talk title. The abstract of each invited talk can be found <a style="color: #3ca0cc;" href="https://www.tcgcrest.org/wp-content/uploads/2024/11/ASK_talk_abstract-1.pdf">[here]</a>.  <br>
 
 <ul>
-<li>Christina Boura, IRIF, Université Paris Cité, France <br> Title of the Talk: Transistor: a TFHE-friendly Stream Cipher
+<li>Christina Boura, IRIF, Université Paris Cité, France <br> Title of the Talk: <span style="color: #ff0000;">Transistor: a TFHE-friendly Stream Cipher</span>
 </li>
 <li>Jean Paul Degabriele, TII, Abu Dhabi <br> Title of the Talk: What's wrong with Poly1305? - Improving Poly1305 through a Systematic Exploration of Design Aspects of Polynomial Hash Functions</li>
 <li>Patrick Derbez, INRIA, Rennes, France <br> Title of the Talk: Alternative Key Schedules for the AES</li>
