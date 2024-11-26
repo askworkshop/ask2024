@@ -9,7 +9,7 @@ sidebar:
     nav: "docs"
 ---
 
-Welcome to the home page of the **11th Asian Workshop on Symmetric Key Cryptography**. This workshop will be held for four days in Kolkata, India, starting on December 14th until December 17th, 2024. The workshop will be held just after [ASIACRYPT 2024](https://asiacrypt.iacr.org/2024/).
+Welcome to the home page of the **11th Asian Workshop on Symmetric Key Cryptography**. This workshop will be held for four days at TCG CREST Kolkata, India, starting on December 14th until December 17th, 2024. The workshop will be held just after [ASIACRYPT 2024](https://asiacrypt.iacr.org/2024/).
 
 ASK has been held to promote research on symmetric-key cryptography in Asia since 2011. Broadly, the scope of the workshop includes, but is not limited to:
 
