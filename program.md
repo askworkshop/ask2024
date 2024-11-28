@@ -44,14 +44,14 @@ sidebar:
   </tr>
   <tr>
     <th class="tg-c3ow">16/12/2024</th>
-    <th class="tg-c3ow">Student Session</th>
+    <th class="tg-c3ow">Invited Talks</th>
     <th class="tg-baqh">Student Session</th>
     <th class="tg-baqh">Group Discussions</th>
   </tr>
   <tr>
     <th class="tg-c3ow">17/12/2024</th>
     <th class="tg-c3ow">Invited Talks</th>
-    <th class="tg-baqh">Invited Talks</th>
+    <th class="tg-baqh">Group Discussions</th>
     <th class="tg-baqh">Group Presentation</th>
   </tr></thead>
 <tbody>
