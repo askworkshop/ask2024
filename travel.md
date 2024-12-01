@@ -23,7 +23,8 @@ Address: First Floor, Tower 1, Bengal Eco Intelligent Park (Techna), Block EM, P
 <ul>
 <li> Eco Park Newtown <a style="color: #3ca0cc;" href="https://ecoparknewtown.com/">[Link]</a></li>  
 <li> Victoria Memorial <a style="color: #3ca0cc;" href="https://victoriamemorial-cal.org/">[Link]</a></li>  
-<li> Zoological Garden, Alipore <a style="color: #3ca0cc;" href="https://www.kolkatazoo.in/alipore/">[Link]</a></li>
+<li> Alipore Museum <a style="color: #3ca0cc;" href="https://independencemuseum.in/">[Link]</a></li>  
+<li> Alipore Zoological Garden <a style="color: #3ca0cc;" href="https://www.kolkatazoo.in/alipore/">[Link]</a></li>
 <li> Indian Museum <a style="color: #3ca0cc;" href="https://indianmuseumkolkata.org/">[Link]</a></li>  
 <li> Dakshineswar Mandir <a style="color: #3ca0cc;" href="https://www.dakshineswarkalitemple.org/">[Link]</a></li>  
 <li> Belur Math <a style="color: #3ca0cc;" href="https://belurmath.org/">[Link]</a></li>  
