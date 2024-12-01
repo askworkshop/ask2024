@@ -45,7 +45,7 @@ The general co-chairs can be contacted by email at ask2024(at)googlegroups(dot)c
 
 ## Organizer
 
-<span><img src="crest.png" alt="sponsor" width="400" height="72"></span>
+<span><img src="crest.png" alt="sponsor" width="350" height="63"></span>
 
 
 ## Sponsors
