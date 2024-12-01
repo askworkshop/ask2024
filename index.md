@@ -43,6 +43,11 @@ The general co-chairs can be contacted by email at ask2024(at)googlegroups(dot)c
 <li>Avijit Dutta (IAI TCG CREST, Kolkata, India)</li>
 </ul>
 
+## Organizer
+
+<span><img src="crest.png" alt="sponsor" width="500" height="90"></span>
+
+
 ## Sponsors
 
 <span><img src="LogoPID.png" alt="sponsor" width="330" height="68">&emsp;&emsp;&emsp;&emsp;<img src="LogoCRSI.png" alt="sponsor" width="170" height="170">&emsp;&emsp;&emsp;&emsp;<img src="CDAC.jpg" alt="sponsor" width="170" height="170"></span>
