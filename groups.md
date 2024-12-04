@@ -19,7 +19,7 @@ We are considering one/multiple groups on the following topics: Provable Securit
 <td>  
 <h3>Group 1: Provable Security - I</h3>
 <ul>
-<li>Jean Paul Degabriele </li>
+<li>Jean Paul Degabriele (Leader)</li>
 <li>Eik List</li>
 <li>Donghoon Chang</li>
 <li>Somitra Sanadhya</li>
@@ -34,7 +34,7 @@ We are considering one/multiple groups on the following topics: Provable Securit
 <td>  
 <h3>Group 2: Provable Security - II </h3>
 <ul>
-<li>Wonseok Choi</li>
+<li>Wonseok Choi (Leader) </li>
 <li>Yaobin Shen</li>
 <li>Nilanjan Datta</li>
 <li>Avijit Dutta</li>
@@ -50,7 +50,7 @@ We are considering one/multiple groups on the following topics: Provable Securit
 <td>
 <h3>Group 3: Design and Implementation </h3>
 <ul>
-<li>Roberto Avenzi</li>
+<li>Roberto Avenzi (Leader)</li>
 <li>Elena Andreeva</li>
 <li>Arnab Roy</li>
 <li>Avik Chakraborti</li>
@@ -68,7 +68,7 @@ We are considering one/multiple groups on the following topics: Provable Securit
 <td>
 <h3>Group 4: Cryptanalysis - I </h3>
 <ul> 
-<li>Yu Sasaki </li>
+<li>Yu Sasaki (Leader) </li>
 <li>Mostafizar Rahman</li>
 <li>Hossein Hadipour</li>
 <li>Debasmita Chakraborty</li>
@@ -82,7 +82,7 @@ We are considering one/multiple groups on the following topics: Provable Securit
 <td>
 <h3>Group 5: Cryptanalysis - II </h3>
 <ul> 
-<li>Christina Boura </li>
+<li>Christina Boura (Leader) </li>
 <li>Dhiman Saha</li>
 <li>Shibam Ghosh</li>
 <li>Michiel Verbauwhede</li>
@@ -95,7 +95,7 @@ We are considering one/multiple groups on the following topics: Provable Securit
 <td>
 <h3>Group 6: Cryptanalysis - III </h3>
 <ul> 
-<li>Patrick Derbez </li>
+<li>Patrick Derbez (Leader) </li>
 <li>Goutam Paul</li>
 <li>Mattia Formenti</li>
 <li>Anubhab Bakshi</li>
