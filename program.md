@@ -64,7 +64,6 @@ sidebar:
     <th class="tg-baqh">GD</th>
     <th class="tg-baqh">GP</th>
   </tr></thead>
-<thead>
   <tr>
     <td class="tg-0lax" colspan="8"><span style="font-weight:bold">
     <ul>
@@ -74,4 +73,4 @@ sidebar:
     </ul>
     </td>
   </tr>
-</thead></table>
+</table>
