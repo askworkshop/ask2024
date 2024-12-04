@@ -66,12 +66,11 @@ sidebar:
   </tr></thead>
 <tbody>
   <tr>
-    <td class="tg-0lax" colspan="8"><span style="font-weight:bold">
+    <td class="tg-0lax" colspan="8"><span style="font-weight:bold"></td>
     <ul>
     <li> GD - Group Discussion </li>
     <li> GP - Group Presentation </li>
     <li> SP - Student Presentation [15 minute presentations by Ph.D. students on their recent results] </li>
     </ul>
-    </td>
   </tr>
 </tbody></table>
