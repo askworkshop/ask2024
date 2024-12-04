@@ -38,7 +38,7 @@ sidebar:
     <th class="tg-c3ow">[AR]</th>
     <th class="tg-c3ow">[PD]</th>
     <th class="tg-baqh">[EL]</th>
-    <th class="tg-baqh">Group Discussions</th>
+    <th class="tg-baqh">GD</th>
   </tr>
   <tr>
     <th class="tg-c3ow">15/12/2024</th>
@@ -46,7 +46,7 @@ sidebar:
     <th class="tg-baqh">[JPD]</th>
     <th class="tg-baqh">[AS]</th>
     <th class="tg-baqh">[AJ]</th>    
-    <th class="tg-baqh">Group Discussions</th>
+    <th class="tg-baqh">GD</th>
   </tr>
   <tr>
     <th class="tg-c3ow">16/12/2024</th>
@@ -54,7 +54,7 @@ sidebar:
     <th class="tg-c3ow">[YS]</th>
     <th class="tg-baqh">SP</th>
     <th class="tg-baqh">SP</th>
-    <th class="tg-baqh">Group Discussions</th>
+    <th class="tg-baqh">GD</th>
   </tr>
   <tr>
     <th class="tg-c3ow">17/12/2024</th>
