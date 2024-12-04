@@ -71,6 +71,6 @@ sidebar:
     <li> GP - Group Presentation </li>
     <li> SP - Student Presentation [15 minute presentations by Ph.D. students on their recent results] </li>
     </ul>
-    </td>
+    </span></td>
   </tr></thead>
 </table>
