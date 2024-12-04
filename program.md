@@ -81,11 +81,11 @@ sidebar:
 <li><span style="color: #ff0000;">[PD]: Patrick Derbez,</span> <span style="color: #0000ff;"> Alternative Key Schedules for the AES</span></li>
 <li><span style="color: #ff0000;">[HH]: Hossein Hadipour,</span> <span style="color: #0000ff;"> Revisiting Differential-Linear Attacks</span></li>
 <li><span style="color: #ff0000;">[AJ]: Ashwin Jha,</span> <span style="color: #0000ff;"> Evasive Properties: A Gap in the Quantum Oracles Zoo</span></li>
-<li><span style="color: #ff0000;">Eik List,</span> <span style="color: #0000ff;"> Revisiting Demirci-Selcuk Meet-in-the-Middle Attacks on the AES</span></li>
-<li><span style="color: #ff0000;">Bart Mennink,</span> <span style="color: #0000ff;">Efficient Instances of Docked Double Decker With AES, and Application to Authenticated Encryption </span></li>
-<li><span style="color: #ff0000;">Arnab Roy,</span> <span style="color: #0000ff;"> New Design Approaches in Symmetric Cryptography</span></li>  
-<li><span style="color: #ff0000;">Palash Sarkar,</span> <span style="color: #0000ff;"> Two Decades of Research on Tweakable Enciphering Schemes</span></li>
-<li><span style="color: #ff0000;">Yu Sasaki,</span> <span style="color: #0000ff;">Committing Security of Authenticated Encryption</span></li>
-<li><span style="color: #ff0000;">André Schrottenloher,</span> <span style="color: #0000ff;">Single-query Quantum Hidden Shift Attacks</span></li>
-<li><span style="color: #ff0000;">Yaobin Shen,</span> <span style="color: #0000ff;"> Security Analyses and Enhanced Variants of Standardized MAC Algorithms</span></li>
+<li><span style="color: #ff0000;">[EL]: Eik List,</span> <span style="color: #0000ff;"> Revisiting Demirci-Selcuk Meet-in-the-Middle Attacks on the AES</span></li>
+<li><span style="color: #ff0000;">[BM]: Bart Mennink,</span> <span style="color: #0000ff;">Efficient Instances of Docked Double Decker With AES, and Application to Authenticated Encryption </span></li>
+<li><span style="color: #ff0000;">[AR]: Arnab Roy,</span> <span style="color: #0000ff;"> New Design Approaches in Symmetric Cryptography</span></li>  
+<li><span style="color: #ff0000;">[PS]: Palash Sarkar,</span> <span style="color: #0000ff;"> Two Decades of Research on Tweakable Enciphering Schemes</span></li>
+<li><span style="color: #ff0000;">[YS]: Yu Sasaki,</span> <span style="color: #0000ff;">Committing Security of Authenticated Encryption</span></li>
+<li><span style="color: #ff0000;">[AS]: André Schrottenloher,</span> <span style="color: #0000ff;">Single-query Quantum Hidden Shift Attacks</span></li>
+<li><span style="color: #ff0000;">[YSh]: Yaobin Shen,</span> <span style="color: #0000ff;"> Security Analyses and Enhanced Variants of Standardized MAC Algorithms</span></li>
 </ul>
