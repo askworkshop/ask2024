@@ -64,5 +64,48 @@ We are considering one/multiple groups on the following topics: Provable Securit
 </ul>
 </td>
 </tr>
+<tr>
+<td>
+<h3>Group 4: Cryptanalysis - I </h3>
+<ul> 
+<li>Yu Sasaki </li>
+<li>Mostafizar Rahman</li>
+<li>Hossein Hadipour</li>
+<li>Debasmita Chakraborty</li>
+<li>Yun-Ju-Huwang</li>
+<li>Anup Kumar Kundu</li>
+<li>Aman Sinha</li>
+<li>Dilip Sau</li>
+<li>Prathamesh Ram</li>
+</ul>  
+</td>  
+<td>
+<h3>Group 5: Cryptanalysis - II </h3>
+<ul> 
+<li>Christina Boura </li>
+<li>Dhiman Saha</li>
+<li>Shibam Ghosh</li>
+<li>Michiel Verbauwhede</li>
+<li>Le-Phuc Paul Huynh</li>
+<li>Abhisek Kumar</li>
+<li>Surajit Mandal</li>
+<li>Vaibhav Dixit</li>
+</ul>  
+</td>  
+<td>
+<h3>Group 6: Cryptanalysis - III </h3>
+<ul> 
+<li>Patrick Derbez </li>
+<li>Goutam Paul</li>
+<li>Mattia Formenti</li>
+<li>Anubhab Bakshi</li>
+<li>Anirban Ghatak</li>
+<li>Amit Jana</li>
+<li>Chandan Dey</li>
+<li>Smita Das</li>
+<li>Ajoy Kumar Das</li>  
+</ul>  
+</td>  
+</tr>
 </table>
 
