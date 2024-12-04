@@ -32,7 +32,7 @@ We are considering one/multiple groups on the following topics: Provable Securit
 </ul>
 </td>
 <td>  
-# Group 2 <br> (Provable Security - II)
+<h3>Group 2 (Provable Security - II) </h3>
 <ul>
 <li>Wonseok Choi</li>
 <li>Yaobin Shen</li>
@@ -48,7 +48,7 @@ We are considering one/multiple groups on the following topics: Provable Securit
 </ul>
 </td>
 <td>
-# Group 3 <br> (Design and Implementation of Primitives)
+<h3>Group 3 (Design and Implementation of Primitives) </h3>
 <ul>
 <li>Roberto Avenzi</li>
 <li>Elena Andreeva</li>
