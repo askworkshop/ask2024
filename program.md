@@ -38,7 +38,7 @@ sidebar:
     <th class="tg-c3ow">[AR]</th>
     <th class="tg-c3ow">[PD]</th>
     <th class="tg-baqh">[EL]</th>
-    <th class="tg-baqh">Group Discussion</th>
+    <th class="tg-baqh">GD</th>
   </tr>
   <tr>
     <th class="tg-c3ow">15/12/2024</th>
@@ -46,26 +46,32 @@ sidebar:
     <th class="tg-baqh">[JPD]</th>
     <th class="tg-baqh">[AS]</th>
     <th class="tg-baqh">[AJ]</th>    
-    <th class="tg-baqh">Group Discussion</th>
+    <th class="tg-baqh">GD</th>
   </tr>
   <tr>
     <th class="tg-c3ow">16/12/2024</th>
     <th class="tg-c3ow">[BM]</th>
     <th class="tg-c3ow">[YS]</th>
-    <th class="tg-baqh">Student Presentation</th>
-    <th class="tg-baqh">Student Presentation</th>
-    <th class="tg-baqh">Group Discussion</th>
+    <th class="tg-baqh">SP</th>
+    <th class="tg-baqh">SP</th>
+    <th class="tg-baqh">GD</th>
   </tr>
   <tr>
     <th class="tg-c3ow">17/12/2024</th>
     <th class="tg-c3ow">[YSh]</th>
     <th class="tg-baqh">[PS]</th>
-    <th class="tg-baqh">Group Discussion</th>
-    <th class="tg-baqh">Group Discussion</th>
-    <th class="tg-baqh">Group Presentation</th>
+    <th class="tg-baqh">GD</th>
+    <th class="tg-baqh">GD</th>
+    <th class="tg-baqh">GP</th>
   </tr></thead>
 <tbody>
   <tr>
-    <td class="tg-0lax" colspan="8"><span style="font-weight:bold">Student Session: </span> 15-20 minute presentations by Ph.D. students on their recent <br>results in the domain of Symmetric Key Cryptology</td>
+    <td class="tg-0lax" colspan="8"><span style="font-weight:bold">
+    <ul>
+    <li> GD - Group Discussion </li>
+    <li> GP - Group Presentation </li>
+    <li> SP - Student Presentation [15 minute presentations by Ph.D. students on their recent results] </li>
+    </ul>
+    </td>
   </tr>
 </tbody></table>
