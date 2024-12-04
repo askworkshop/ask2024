@@ -63,7 +63,7 @@ sidebar:
     <th class="tg-baqh">GD</th>
     <th class="tg-baqh">GD</th>
     <th class="tg-baqh">GP</th>
-  </tr></thead>
+  </tr>
   <tr>
     <td class="tg-0lax" colspan="8"><span style="font-weight:bold">
     <ul>
@@ -72,5 +72,5 @@ sidebar:
     <li> SP - Student Presentation [15 minute presentations by Ph.D. students on their recent results] </li>
     </ul>
     </td>
-  </tr>
+  </tr></thead>
 </table>
