@@ -17,7 +17,7 @@ We are considering one/multiple groups on the following topics: Provable Securit
 <table width="105%" id="tblGroup" cellspacing="10px" border="0">
 <tr>
 <td>  
-<h3>Group 1</h3> <br> (Provable Security - I)
+<h3>Group 1 (Provable Security - I) </h3>
 <ul>
 <li>Jean Paul Degabriele </li>
 <li>Eik List</li>
