@@ -17,7 +17,7 @@ We are considering one/multiple groups on the following topics: Provable Securit
 <table width="105%" id="tblGroup" cellspacing="10px" border="0">
 <tr>
 <td>  
-<h3>Group 1</h3><br><h3> Provable Security - I</h3>
+<h3>Group 1: Provable Security - I</h3>
 <ul>
 <li>Jean Paul Degabriele </li>
 <li>Eik List</li>
@@ -32,7 +32,7 @@ We are considering one/multiple groups on the following topics: Provable Securit
 </ul>
 </td>
 <td>  
-<h3>Group 2 (Provable Security - II) </h3>
+<h3>Group 2: Provable Security - II </h3>
 <ul>
 <li>Wonseok Choi</li>
 <li>Yaobin Shen</li>
@@ -48,7 +48,7 @@ We are considering one/multiple groups on the following topics: Provable Securit
 </ul>
 </td>
 <td>
-<h3>Group 3 (Design and Implementation of Primitives) </h3>
+<h3>Group 3: Design and Implementation of Primitives </h3>
 <ul>
 <li>Roberto Avenzi</li>
 <li>Elena Andreeva</li>
