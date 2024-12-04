@@ -14,7 +14,10 @@ sidebar:
 
 We are considering one/multiple groups on the following topics: Provable Security, Design and Implemetation of Primitives, Cryptanalysis of Primitives, Quantum Symmetric Cryptography and Searchable Symmetric Encryption.
 
-#Group 1 (Provable Security - I)
+<table width="105%" id="tblGroup" cellspacing="10px" border="0">
+<tr>
+<td>  
+# Group 1 (Provable Security - I)
 <ul>
 <li>Jean Paul Degabriele </li>
 <li>Eik List</li>
@@ -27,8 +30,9 @@ We are considering one/multiple groups on the following topics: Provable Securit
 <li>Samir Kundu</li>
 <li>Sayantan Paul</li>
 </ul>
-
-#Group 2 (Provable Security - II)
+</td>
+<td>  
+# Group 2 (Provable Security - II)
 <ul>
 <li>Wonseok Choi</li>
 <li>Yaobin Shen</li>
@@ -42,4 +46,21 @@ We are considering one/multiple groups on the following topics: Provable Securit
 <li>Soumit Paul</li>  
 <li>Anirban Karmakar</li>
 </ul>
+</td>
+<td>
+# Group 3 (Design and Implementation of Primitives)
+<ul>
+<li>Roberto Avenzi</li>
+<li>Elena Andreeva</li>
+<li>Arnab Roy</li>
+<li>Avik Chakraborti</li>
+<li>Bishwajit Chakraborty</li>
+<li>Anjan Roy</li>
+<li>Mohit Pal</li>
+<li>Rajat Sadhukhan</li>
+<li>Sreoshi Bhattacharya</li>
+<li>Sajani Kundu</li>  
+<li>Dixit Dutt Bohra</li>
+</ul>
+</td>
 
