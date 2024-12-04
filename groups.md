@@ -114,7 +114,6 @@ We are considering one/multiple groups on the following topics: Provable Securit
 <li>Andre Schorttenloher (Leader) </li>
 <li>Ashwin Jha</li>
 <li>Ritam Bhaumik</li>
-<li>Abishanka Saha</li>
 <li>Amit Kumar Chauhan</li>
 <li>Suprita Talnikar</li>
 <li>Ravindra Jejurikar</li>
