@@ -107,5 +107,37 @@ We are considering one/multiple groups on the following topics: Provable Securit
 </ul>  
 </td>  
 </tr>
+<tr>
+<td>
+<h3>Group 7: Quantum Symmetric Cryptology </h3>
+<ul> 
+<li>Andre Schorttenloher (Leader) </li>
+<li>Ashwin Jha</li>
+<li>Ritam Bhaumik</li>
+<li>Abishanka Saha</li>
+<li>Amit Kumar Chauhan</li>
+<li>Suprita Talnikar</li>
+<li>Ravindra Jejurikar</li>
+<li>Jyotirmoy Basak</li>
+<li>Suman Dutta</li>
+<li>Anandarup Roy</li>
+</ul>  
+</td>  
+<td>
+<h3>Group 8: Searchable Symmetric Encryption </h3>
+<ul> 
+<li>Subhabrata Samajder (Leader) </li>
+<li>Bart Mennink</li>
+<li>Mridul Nandi</li>
+<li>Sushmita Ruj</li>
+<li>Avishek Majumder</li>
+<li>Laltu Sardar</li>
+<li>Debadrita Talapatra</li>
+<li>Bibhas Chandra Das</li>
+<li>Mriganka Dey</li>
+<li>Surajit Mandal</li>
+</ul>  
+</td>  
+</tr>
 </table>
 
