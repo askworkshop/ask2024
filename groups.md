@@ -48,7 +48,7 @@ We are considering one/multiple groups on the following topics: Provable Securit
 </ul>
 </td>
 <td>
-<h3>Group 3: Design and Implementation of Primitives </h3>
+<h3>Group 3: Design and Implementation </h3>
 <ul>
 <li>Roberto Avenzi</li>
 <li>Elena Andreeva</li>
