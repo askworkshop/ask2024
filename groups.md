@@ -135,7 +135,6 @@ We are considering one/multiple groups on the following topics: Provable Securit
 <li>Debadrita Talapatra</li>
 <li>Bibhas Chandra Das</li>
 <li>Mriganka Dey</li>
-<li>Surajit Mandal</li>
 </ul>  
 </td>  
 </tr>
