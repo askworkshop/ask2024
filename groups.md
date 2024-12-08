@@ -19,9 +19,8 @@ We are considering one/multiple groups on the following topics: Provable Securit
 <td>  
 <h3>Group 1: Provable Security - I</h3>
 <ul>
-<li>Jean Paul Degabriele (Leader)</li>
+<li>Donghoon Chang (Leader)</li>
 <li>Eik List</li>
-<li>Donghoon Chang</li>
 <li>Somitra Sanadhya</li>
 <li>Arghya Bhattacharjee</li>
 <li>Sougata Mandal</li>
@@ -90,6 +89,7 @@ We are considering one/multiple groups on the following topics: Provable Securit
 <li>Abhisek Kumar</li>
 <li>Surajit Mandal</li>
 <li>Vaibhav Dixit</li>
+<li>Himadri Sekhar Roy</li>
 </ul>  
 </td>  
 <td>
@@ -128,6 +128,7 @@ We are considering one/multiple groups on the following topics: Provable Securit
 <li>Subhabrata Samajder (Leader) </li>
 <li>Bart Mennink</li>
 <li>Mridul Nandi</li>
+<li>Jean Paul Degabriele </li>
 <li>Sushmita Ruj</li>
 <li>Avishek Majumder</li>
 <li>Laltu Sardar</li>
