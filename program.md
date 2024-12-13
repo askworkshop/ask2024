@@ -70,7 +70,7 @@ sidebar:
     <th class="tg-baqh">GP</th>
   </tr>
   <tr>
-    <td class="tg-0lax" colspan="8"><span style="font-weight:bold">
+    <td class="tg-0lax" colspan="9"><span style="font-weight:bold">
     <ul>
     <li> GD - Group Discussion </li>
     <li> GP - Group Presentation </li>
