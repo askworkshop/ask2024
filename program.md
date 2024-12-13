@@ -50,10 +50,10 @@ sidebar:
   </tr>
   <tr>
     <th class="tg-c3ow">16/12/2024</th>
-    <th class="tg-c3ow">[BM]</th>
-    <th class="tg-c3ow">[YS]</th>
-    <th class="tg-baqh">SP</th>
-    <th class="tg-baqh">SP</th>
+    <th class="tg-c3ow">SP</th>
+    <th class="tg-c3ow">SP</th>
+    <th class="tg-baqh">[YS]</th>
+    <th class="tg-baqh">[BM]</th>
     <th class="tg-baqh">GD</th>
   </tr>
   <tr>
