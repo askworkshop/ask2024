@@ -99,7 +99,6 @@ We are considering one/multiple groups on the following topics: Provable Securit
 <li>Goutam Paul</li>
 <li>Mattia Formenti</li>
 <li>Anubhab Bakshi</li>
-<li>Anirban Ghatak</li>
 <li>Amit Jana</li>
 <li>Chandan Dey</li>
 <li>Smita Das</li>
@@ -126,11 +125,11 @@ We are considering one/multiple groups on the following topics: Provable Securit
 <h3>Group 8: Searchable Symmetric Encryption </h3>
 <ul> 
 <li>Subhabrata Samajder (Leader) </li>
-<li>Bart Mennink</li>
 <li>Mridul Nandi</li>
 <li>Jean Paul Degabriele </li>
 <li>Sushmita Ruj</li>
 <li>Avishek Majumder</li>
+<li>Subhra Majumder</li>
 <li>Laltu Sardar</li>
 <li>Debadrita Talapatra</li>
 <li>Bibhas Chandra Das</li>
