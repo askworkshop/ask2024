@@ -24,6 +24,7 @@ sidebar:
 <table class="tg"><thead>
   <tr>
     <th class="tg-c3ow"></th>
+    <th class="tg-c3ow">9.30-10.00</th>
     <th class="tg-c3ow">10.00-10.45</th>
     <th class="tg-c3ow">10.45-11.30</th>
     <th class="tg-c3ow" rowspan="5"><br><br><br><span style="font-weight:bold">B</span><br><span style="font-weight:bold">R</span><br><span style="font-weight:bold">E</span><br><span style="font-weight:bold">A</span><br><span style="font-weight:bold">K</span></th>
@@ -34,6 +35,7 @@ sidebar:
   </tr>
   <tr>
     <th class="tg-c3ow">14/12/2024</th>
+    <th class="tg-c3ow">Inauguration</th>
     <th class="tg-c3ow">[CB]</th>
     <th class="tg-c3ow">[AR]</th>
     <th class="tg-c3ow">[PD]</th>
@@ -42,6 +44,7 @@ sidebar:
   </tr>
   <tr>
     <th class="tg-c3ow">15/12/2024</th>
+    <th class="tg-c3ow"> </th>
     <th class="tg-c3ow">[HH]</th>
     <th class="tg-baqh">[JPD]</th>
     <th class="tg-baqh">[AS]</th>
@@ -52,12 +55,14 @@ sidebar:
     <th class="tg-c3ow">16/12/2024</th>
     <th class="tg-c3ow">SP</th>
     <th class="tg-c3ow">SP</th>
+    <th class="tg-c3ow">SP</th>
     <th class="tg-baqh">[YS]</th>
     <th class="tg-baqh">[BM]</th>
     <th class="tg-baqh">GD</th>
   </tr>
   <tr>
     <th class="tg-c3ow">17/12/2024</th>
+    <th class="tg-c3ow"> </th>
     <th class="tg-c3ow">[YSh]</th>
     <th class="tg-baqh">[PS]</th>
     <th class="tg-baqh">GD</th>
