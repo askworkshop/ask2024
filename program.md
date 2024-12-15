@@ -36,8 +36,8 @@ sidebar:
   <tr>
     <th class="tg-c3ow">14/12/2024</th>
     <th class="tg-c3ow">Inauguration</th>
-    <th class="tg-c3ow">[CB]</th>
-    <th class="tg-c3ow">[AR]</th>
+    <th class="tg-c3ow"><a style="color: #3ca0cc;" href="https://www.tcgcrest.org/wp-content/uploads/2024/12/Talk_Christina.pdf">[CB]</a></th>
+    <th class="tg-c3ow"><a style="color: #3ca0cc;" href="https://www.tcgcrest.org/wp-content/uploads/2024/12/Talk_Arnab.pdf">[AR]</a></th>
     <th class="tg-c3ow">[PD]</th>
     <th class="tg-baqh">[EL]</th>
     <th class="tg-baqh">GD</th>
