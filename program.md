@@ -94,3 +94,18 @@ sidebar:
 <li><span style="color: #ff0000;">[YSh]: Yaobin Shen,</span> <span style="color: #0000ff;"> Security Analyses and Enhanced Variants of Standardized MAC Algorithms</span></li>
 <li><span style="color: #ff0000;">[PS]: Palash Sarkar,</span> <span style="color: #0000ff;"> Two Decades of Research on Tweakable Enciphering Schemes</span></li>
 </ul>
+
+# Student Presentation Schedule
+<ul>
+<li> Michiel Verbauwhede, COSIC, KU Lueven: Ultrametric Integral Cryptanalysis: The Lost Slides</li>
+<li> Dilip Kumar Sau, IIT Bhilai, Know-Thy-Basis: Decomposing F_{2^6} for Lightweight S-box implementation</li>
+<li> Ajay Kumar Das, IIT Bhilai, Programmatic SAT: A Companion for Domain (CRYPTO) Specific Solver</li>
+<li> Prathamesh Ram, IIT Bhilai, Simple vs Vectorial: Exploiting Structural Symmetry to beat the ZeroSum distinguisher</li>
+<li> Smita Das, IIT Kharagpur, Related-Key Cryptanalysis of FUTURE The Full Round Distinguishing Attack </li>
+<li> Debadrita Talapatra, IIT Kharagpur, Fast and Efficient Computations on Symmetric Encrypted Data </li>
+<li> Debasmita Chakraborty, ISI Kolkata, Lower Bound on the Number of Compression Calls for a Collision Resistance Preserving
+Hash</li>
+<li> Shreya Dey, TCG CREST, Multi User Security of CLRW1^4 </li>
+<li> Hrithik Nandi, TCG CREST, Optimally Secure TBC Based Accordion Mode </li>
+<li> Sougata Mandal, TCG CREST, Designing Large Tweak TBC in Ideal Cipher Model </li>
+</ul>
