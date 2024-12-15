@@ -97,15 +97,15 @@ sidebar:
 
 # Student Presentation Schedule
 <ul>
-<li> Michiel Verbauwhede, COSIC, KU Lueven: Ultrametric Integral Cryptanalysis: The Lost Slides</li>
-<li> Dilip Kumar Sau, IIT Bhilai, Know-Thy-Basis: Decomposing F_{2^6} for Lightweight S-box implementation</li>
-<li> Ajay Kumar Das, IIT Bhilai, Programmatic SAT: A Companion for Domain (CRYPTO) Specific Solver</li>
-<li> Prathamesh Ram, IIT Bhilai, Simple vs Vectorial: Exploiting Structural Symmetry to beat the ZeroSum distinguisher</li>
-<li> Smita Das, IIT Kharagpur, Related-Key Cryptanalysis of FUTURE The Full Round Distinguishing Attack </li>
-<li> Debadrita Talapatra, IIT Kharagpur, Fast and Efficient Computations on Symmetric Encrypted Data </li>
-<li> Debasmita Chakraborty, ISI Kolkata, Lower Bound on the Number of Compression Calls for a Collision Resistance Preserving
-Hash</li>
-<li> Shreya Dey, TCG CREST, Multi User Security of CLRW1^4 </li>
-<li> Hrithik Nandi, TCG CREST, Optimally Secure TBC Based Accordion Mode </li>
-<li> Sougata Mandal, TCG CREST, Designing Large Tweak TBC in Ideal Cipher Model </li>
+<li> Michiel Verbauwhede, COSIC, KU Lueven: <span style="color: #0000ff;">Ultrametric Integral Cryptanalysis: The Lost Slides</span></li>
+<li> Dilip Kumar Sau, IIT Bhilai, <span style="color: #0000ff;">Know-Thy-Basis: Decomposing F_{2^6} for Lightweight S-box implementation</span></li>
+<li> Ajay Kumar Das, IIT Bhilai, <span style="color: #0000ff;">Programmatic SAT: A Companion for Domain (CRYPTO) Specific Solver</span></li>
+<li> Prathamesh Ram, IIT Bhilai, <span style="color: #0000ff;">Simple vs Vectorial: Exploiting Structural Symmetry to beat the ZeroSum distinguisher</span></li>
+<li> Smita Das, IIT Kharagpur, <span style="color: #0000ff;">Related-Key Cryptanalysis of FUTURE The Full Round Distinguishing Attack</span> </li>
+<li> Debadrita Talapatra, IIT Kharagpur, <span style="color: #0000ff;">Fast and Efficient Computations on Symmetric Encrypted Data </span></li>
+<li> Debasmita Chakraborty, ISI Kolkata, <span style="color: #0000ff;">Lower Bound on the Number of Compression Calls for a Collision Resistance Preserving
+Hash</span></li>
+<li> Shreya Dey, TCG CREST, <span style="color: #0000ff;">Multi User Security of CLRW1^4</span> </li>
+<li> Hrithik Nandi, TCG CREST, <span style="color: #0000ff;">Optimally Secure TBC Based Accordion Mode</span> </li>
+<li> Sougata Mandal, TCG CREST, <span style="color: #0000ff;">Designing Large Tweak TBC in Ideal Cipher Model</span> </li>
 </ul>
