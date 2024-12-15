@@ -93,7 +93,7 @@ sidebar:
 <li><span style="color: #ff0000;">[YS]: Yu Sasaki,</span> <span style="color: #0000ff;">Committing Security of Authenticated Encryption</span></li>
 <li><span style="color: #ff0000;">[YSh]: Yaobin Shen,</span> <span style="color: #0000ff;"> Security Analyses and Enhanced Variants of Standardized MAC Algorithms</span></li>
 <li><span style="color: #ff0000;">[PS]: Palash Sarkar,</span> <span style="color: #0000ff;"> Two Decades of Research on Tweakable Enciphering Schemes</span></li>
-</ul>
+</ul><br>
 
 # Student Presentation Schedule
 <ul>
