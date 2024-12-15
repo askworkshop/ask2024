@@ -48,7 +48,7 @@ sidebar:
     <th class="tg-c3ow"><a style="color: #3ca0cc;" href="https://www.tcgcrest.org/wp-content/uploads/2024/12/Talk_Hosein.pdf">[HH]</a></th>
     <th class="tg-baqh">[JPD]</th>
     <th class="tg-baqh"><a style="color: #3ca0cc;" href="https://www.tcgcrest.org/wp-content/uploads/2024/12/Talk_Andre.pdf">[AS]</a></th>
-    <th class="tg-baqh">[AJ]</th>    
+    <th class="tg-baqh"><a style="color: #3ca0cc;" href="https://www.tcgcrest.org/wp-content/uploads/2024/12/Talk_Ashwin.pdf">[AJ]</a></th>    
     <th class="tg-baqh">GD</th>
   </tr>
   <tr>
