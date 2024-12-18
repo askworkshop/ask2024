@@ -56,8 +56,8 @@ sidebar:
     <th class="tg-c3ow">SP</th>
     <th class="tg-c3ow">SP</th>
     <th class="tg-c3ow">SP</th>
-    <th class="tg-baqh">[YS]</th>
-    <th class="tg-baqh">[BM]</th>
+    <th class="tg-baqh"><a style="color: #3ca0cc;" href="https://www.tcgcrest.org/wp-content/uploads/2024/12/Talk_Sasaki.pdf">[YS]</a></th>
+    <th class="tg-baqh"><a style="color: #3ca0cc;" href="https://www.tcgcrest.org/wp-content/uploads/2024/12/Talk_Bart.pdf">[BM]</a></th>
     <th class="tg-baqh">GD</th>
   </tr>
   <tr>
