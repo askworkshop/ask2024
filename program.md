@@ -86,7 +86,7 @@ sidebar:
 <li><span style="color: #ff0000;">[PD]: Patrick Derbez,</span> <span style="color: #0000ff;"> Alternative Key Schedules for the AES</span></li>
 <li><span style="color: #ff0000;">[EL]: Eik List,</span> <span style="color: #0000ff;"> Revisiting Demirci-Selcuk Meet-in-the-Middle Attacks on the AES</span></li>
 <li><span style="color: #ff0000;">[HH]: Hossein Hadipour,</span> <span style="color: #0000ff;"> Revisiting Differential-Linear Attacks</span></li>
-<li><span style="color: #ff0000;">[JPD]: Jean Paul Degabriele,</span> <span style="color: #0000ff;"> What's wrong with Poly1305? - Improving Poly1305 through a Systematic Exploration of Design Aspects of Polynomial Hash Functions</span></li>
+<li><span style="color: #ff0000;">[JPD]: Jean Paul Degabriele,</span> <span style="color: #0000ff;"> Rugged Pseudorandom Permutations and Their Applications</span></li>
 <li><span style="color: #ff0000;">[AS]: André Schrottenloher,</span> <span style="color: #0000ff;">Single-query Quantum Hidden Shift Attacks</span></li>
 <li><span style="color: #ff0000;">[AJ]: Ashwin Jha,</span> <span style="color: #0000ff;"> Evasive Properties: A Gap in the Quantum Oracles Zoo</span></li>
 <li><span style="color: #ff0000;">[BM]: Bart Mennink,</span> <span style="color: #0000ff;">Efficient Instances of Docked Double Decker With AES, and Application to Authenticated Encryption </span></li>
