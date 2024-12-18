@@ -9,7 +9,7 @@ sidebar:
     nav: "docs"
 ---
 
-# Tentative Program
+# Program
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
