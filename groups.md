@@ -136,7 +136,7 @@ We are considering one/multiple groups on the following topics: Provable Securit
 </ul>  
 </td>  
   <td>
-<h3>Other Participants Not Involved in Group Discussions </h3>
+<h3>Other Participants</h3>
 <ul> 
 <li>Abhishek Adhikari (Presidency University, Kolkata)</li>
 <li>Aparna Sengupta (CDAC)</li>
