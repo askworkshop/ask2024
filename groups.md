@@ -26,8 +26,7 @@ We are considering one/multiple groups on the following topics: Provable Securit
 <li>Sougata Mandal</li>
 <li>Hrithik Nandi</li>
 <li>Chandranan Dhar</li>
-<li>Samir Kundu</li>
-<li>Sayantan Paul</li><br>
+<li>Samir Kundu</li><br>
 </ul>
 </td>
 <td>  
