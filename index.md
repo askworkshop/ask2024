@@ -4,7 +4,7 @@ toc: false
 classes: wide
 sidebar:  
   - title: " "
-    image: /assets/images/ASK_2.jpeg
+    image: /assets/images/ASK_2.jpg
     image_alt: "image"
     nav: "docs"
 ---
