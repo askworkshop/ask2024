@@ -135,6 +135,21 @@ We are considering one/multiple groups on the following topics: Provable Securit
 <li>Mriganka Dey</li>
 </ul>  
 </td>  
+  <td>
+<h3>Other Participants Not Involved in Group Discussions </h3>
+<ul> 
+<li>Abhishek Adhikari (Presidency University, Kolkata)</li>
+<li>Aparna Sengupta (CDAC)</li>
+<li>Purnendu Debnath (CDAC)</li>
+<li>Biswajit Saha (CDAC) </li>
+<li>Bhanu P. Singh (CDAC)</li>
+<li>Bishakha Sarkar (TCG CREST)</li>
+<li>Nikita Dey (TCG CREST)</li>
+<li>Md. ALalgir Alam (TCG CREST)</li>
+<li>Mrinal Nandi (WBSU)</li>
+
+</ul>  
+</td>
 </tr>
 </table>
 
