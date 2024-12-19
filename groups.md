@@ -145,7 +145,7 @@ We are considering one/multiple groups on the following topics: Provable Securit
 <li>Bhanu P. Singh (CDAC)</li>
 <li>Bishakha Sarkar (TCG CREST)</li>
 <li>Nikita Dey (TCG CREST)</li>
-<li>Md. ALalgir Alam (TCG CREST)</li>
+<li>Md. Alamgir Alam (TCG CREST)</li>
 <li>Mrinal Nandi (WBSU)</li>
 
 </ul>  
