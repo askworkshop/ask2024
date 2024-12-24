@@ -39,7 +39,7 @@ sidebar:
     <th class="tg-c3ow"><a style="color: #3ca0cc;" href="https://www.tcgcrest.org/wp-content/uploads/2024/12/Talk_Christina.pdf">[CB]</a></th>
     <th class="tg-c3ow"><a style="color: #3ca0cc;" href="https://www.tcgcrest.org/wp-content/uploads/2024/12/Talk_Arnab.pdf">[AR]</a></th>
     <th class="tg-c3ow"><a style="color: #3ca0cc;" href="https://www.tcgcrest.org/wp-content/uploads/2024/12/Talk_Patrick.pdf">[PD]</a></th>
-    <th class="tg-baqh">[EL]</th>
+    <th class="tg-baqh"><a style="color: #3ca0cc;" href="https://www.tcgcrest.org/wp-content/uploads/2024/12/Talk_Eik.pdf">[EL]</th>
     <th class="tg-baqh">GD</th>
   </tr>
   <tr>
@@ -63,8 +63,8 @@ sidebar:
   <tr>
     <th class="tg-c3ow">17/12/2024</th>
     <th class="tg-c3ow"> </th>
-    <th class="tg-c3ow">[YSh]</th>
-    <th class="tg-baqh">[PS]</th>
+    <th class="tg-c3ow"><a style="color: #3ca0cc;" href="https://www.tcgcrest.org/wp-content/uploads/2024/12/Talk_Yaobin.pdf">[YSh]</a></th>
+    <th class="tg-baqh"><a style="color: #3ca0cc;" href=https://www.tcgcrest.org/wp-content/uploads/2024/12/Talk_Palash.pdf">[PS]</a></th>
     <th class="tg-baqh">GD</th>
     <th class="tg-baqh">GD</th>
     <th class="tg-baqh">GP</th>
@@ -84,7 +84,7 @@ sidebar:
 </li>
 <li><span style="color: #ff0000;">[AR]: Arnab Roy,</span> <span style="color: #0000ff;"> New Design Approaches in Symmetric Cryptography</span></li>  
 <li><span style="color: #ff0000;">[PD]: Patrick Derbez,</span> <span style="color: #0000ff;"> Alternative Key Schedules for the AES</span></li>
-<li><span style="color: #ff0000;">[EL]: Eik List,</span> <span style="color: #0000ff;"> Revisiting Demirci-Selcuk Meet-in-the-Middle Attacks on the AES</span></li>
+<li><span style="color: #ff0000;">[EL]: Eik List,</span> <span style="color: #0000ff;"> Forking Sums of Permutations for Optimally Secure and Highly Efficient PRFs</span></li>
 <li><span style="color: #ff0000;">[HH]: Hossein Hadipour,</span> <span style="color: #0000ff;"> Revisiting Differential-Linear Attacks</span></li>
 <li><span style="color: #ff0000;">[JPD]: Jean Paul Degabriele,</span> <span style="color: #0000ff;"> Rugged Pseudorandom Permutations and Their Applications</span></li>
 <li><span style="color: #ff0000;">[AS]: André Schrottenloher,</span> <span style="color: #0000ff;">Single-query Quantum Hidden Shift Attacks</span></li>
