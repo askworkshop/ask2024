@@ -64,7 +64,7 @@ sidebar:
     <th class="tg-c3ow">17/12/2024</th>
     <th class="tg-c3ow"> </th>
     <th class="tg-c3ow"><a style="color: #3ca0cc;" href="https://www.tcgcrest.org/wp-content/uploads/2024/12/Talk_Yaobin.pdf">[YSh]</a></th>
-    <th class="tg-baqh"><a style="color: #3ca0cc;" href=https://www.tcgcrest.org/wp-content/uploads/2024/12/Talk_Palash.pdf">[PS]</a></th>
+    <th class="tg-baqh"><a style="color: #3ca0cc;" href="https://www.tcgcrest.org/wp-content/uploads/2024/12/Talk_Palash.pdf">[PS]</a></th>
     <th class="tg-baqh">GD</th>
     <th class="tg-baqh">GD</th>
     <th class="tg-baqh">GP</th>
